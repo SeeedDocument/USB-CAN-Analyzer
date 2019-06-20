@@ -1,0 +1,4 @@
+USB transfer CAN use step
+1. Insert the USB transfer CAN, install the driver
+2. Open the USB transfer CAN epistatic machine application, choose COM port (port from the device manager inside port saw that is CH340 USB transfer CAN port),
+Click on the open, according to the practical demands setting CAN baud rate, frame type, filter ID, mask ID etc, click CAN set CAN be used
