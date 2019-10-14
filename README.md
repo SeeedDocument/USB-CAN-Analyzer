@@ -90,7 +90,7 @@ Baud rate of virtual COM port can also be modified, default baud rate over 1M, s
 
 | Raspberry pi | USB-CAN Analyzer| Arduino Board |CAN-BUS Shield V2 |
 |--------------|-------------|-----------------|-----|
-|![enter image description here](https://github.com/SeeedDocument/wiki_english/raw/master/docs/images/rasp.jpg)|![enter image description here](https://www.seeedstudio.site/media/catalog/product/cache/ab187aaa5f626ad16c8031644cd2de5b/h/t/httpsstatics3.seeedstudio.comseeedfile2017-06bazaar487720_2.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/gs_1.jpg)|![](https://github.com/SeeedDocument/2-Channel-CAN-BUS-FD-Shield-for-Raspberry-Pi/raw/master/img/CAN_BUS_Shield_V2.jpg)|
+|![enter image description here](https://github.com/SeeedDocument/wiki_english/raw/master/docs/images/rasp.jpg)|![enter image description here](https://github.com/SeeedDocument/USB-CAN-Analyzer/raw/master/img/analyzer%20-%20210-157.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/gs_1.jpg)|![](https://github.com/SeeedDocument/2-Channel-CAN-BUS-FD-Shield-for-Raspberry-Pi/raw/master/img/CAN_BUS_Shield_V2.jpg)|
 |[Get ONE Now](https://www.seeedstudio.com/Raspberry-Pi-3-Model-B-p-2625.html)|[Get ONE Now](https://www.seeedstudio.com/USB-CAN-Analyzer-p-2888.html)|[Get ONE Now](https://www.seeedstudio.com/Seeeduino-V4-2-p-2517.html)|[Get ONE Now](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html)|
 
 
@@ -116,7 +116,7 @@ Also we need to two [male to male jumper](https://www.seeedstudio.com/Breadboard
 - **Step 3**. Power the USB-CAN Analyzer and Seeeduino from computer.
 
 
-![](https://github.com/Seeed-Studio/pi-hats/raw/master/images/can_hat_and_arduinno_hardware.jpg)
+![](https://github.com/SeeedDocument/USB-CAN-Analyzer/raw/master/img/analyzer-connect-CAN-BUS-Shield-V2.jpg)
 
 
 ### Software
